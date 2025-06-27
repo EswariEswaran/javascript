@@ -28,7 +28,7 @@ Total Marks (87 + 91): ${marks1} + ${marks2} = ${total}
 
 Greeting   : ${getGreeting(name)}
 
-✅ All data has been dynamically inserted using JavaScript Interpolation!
+ All data has been dynamically inserted using JavaScript Interpolation!
 `;
 
 console.log(output);
